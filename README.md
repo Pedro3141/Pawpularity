@@ -1,4 +1,4 @@
-Pedro Ramirez: Linear Regression \n
+Pedro Ramirez: Linear Regression <br />
 Amy Guttman: Decision Tree Classifier
 Alejandro Chanocua: KNN
 Abigail Garcia: Log Reg
